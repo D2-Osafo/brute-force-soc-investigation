@@ -11,3 +11,8 @@ wrote an incident report with remediation.
 the successful login from the same IP = account compromised
 - Mapped to MITRE ATT&CK (T1110, T1078)
 - Wrote a SOC-style incident report with remediation
+## Evidence
+![failures](screenshots/failed-logins.png)
+![breach](screenshots/accepted-login.png)
+## Full write-up
+See [incident-report.md](incident-report.md)
