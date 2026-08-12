@@ -1,7 +1,7 @@
 Brute Force Login Attempt Incident Report
 
 ## 1. Summary
-SUMMARY
+
 On the 12th of August 2026 at 14:12, host 'target' recorded five SSH login
 attempts against the 'analyst' account from 192.168.252.7
 within 2.15 seconds. Four failed; the fifth succeeded. The
