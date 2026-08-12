@@ -7,11 +7,6 @@ attempts against the 'analyst' account from 192.168.252.7
 within 2.15 seconds. Four failed; the fifth succeeded. The
 account is considered compromised. Recommend immediate
 password reset and a block on the source IP.
-REMEDIATION SOLUTIONS
-1. Force a password reset on 'analyst' and review its activity.
-2. Disable SSH password login; require SSH keys instead.
-3. Install fail2ban to auto-block IPs after repeated failures.
-4. Alert on repeated 'Failed password' events in real time
 
 ## 2. Affected assets
 - Host: [192.168.252.6]
